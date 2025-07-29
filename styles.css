@@ -1,0 +1,79 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+
+body {
+  width: 500px;
+  background: transparent;
+  padding: 10px;
+  border-radius: 15px;
+  margin: 10px;
+  padding: 15px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: whitesmoke;
+}
+
+#input-el {
+  margin: 20px;
+  width: 90%;
+  height: 50px;
+  border: 2px solid black;
+  font-size: 1rem;
+  font-weight: bold;
+  border-radius: 8px;
+  padding: 8px 8px;
+  background-color: white;
+}
+
+.btn-el {
+  padding: 8px 24px;
+  border-radius: 8px;
+  font-size: 1rem;
+  font-weight: bold;
+  color: white;
+  background-color: black;
+  border: none;
+  margin: 5px 0px;
+}
+.btn-el:hover {
+  cursor: pointer;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.6);
+}
+#div-el {
+  border: 2px solid black;
+  padding: 16px 8px;
+  margin: 20px;
+  width: 90%;
+  border-radius: 8px;
+}
+
+#ul-el {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  row-gap: 10px;
+}
+
+#ul-el li {
+  padding: 10px;
+  border: 2px solid black;
+  border-radius: 8px;
+  font-size: 1rem;
+  font-weight: bold;
+  background-color: white;
+  box-shadow: 0 0 6px rgba(0, 0, 0, 0.3);
+  cursor: pointer;
+}
+
+.li-el{
+    display: flex;
+    flex-direction: column;
+    row-gap: 5px;
+    align-items: flex-start;
+}

@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "version": "1.0.0",
+  "name": "Live Note Taking",
+  "description": "Take notes in a popup",
+  "action": {
+    "default_popup": "index.html",
+    "default_icon": "notes.png"
+  },
+  "permissions": [
+    "tabs",
+    "activeTab"
+  ]
+}
