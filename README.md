@@ -5,7 +5,7 @@ A lightweight and privacy-focused browser extension for taking notes in real-tim
 ---
 ## Screenshot
 
-/Screenshot.png
+!(./Screenshot.png)
 ---
 
 ## 🚀 Features
