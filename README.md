@@ -5,7 +5,7 @@ A lightweight and privacy-focused browser extension for taking notes in real-tim
 ---
 ## Screenshot
 
-!(./Screenshot.png)
+![Live Note-Taking Extension Screenshot](./Screenshot.png)
 ---
 
 ## 🚀 Features
